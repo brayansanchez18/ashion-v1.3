@@ -1,0 +1,29 @@
+.contenidoCheckout,
+.contenidoCheckout .row {
+  padding: 0px 20px;
+}
+
+/* .formEnvio {
+  display: none;
+} */
+
+.btnPagar {
+  cursor: pointer;
+}
+
+.btnPagar img {
+  width: 300px;
+}
+
+.btnPagar img:hover {
+  filter: opacity(0.8);
+}
+
+.modal-header {
+  background: #b00b0b;
+  color: #fff;
+}
+
+.modal-header > .close > span {
+  color: #fff;
+}
